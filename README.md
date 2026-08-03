@@ -4,7 +4,7 @@ _**Note:** Originally started in Autumn 2025, first pushed to GitHub in August 2
 
 **TerminalCal** is a very simple Python app that runs in the terminal and allows you to add and view upcoming events.
 
-<div style="display:flex;justify-content:center">
+<div style="display:flex;justify-content:center; width: 100%;">
     <img src="assets/screenshot.png" style="width: 500px; flex: 0 1 auto;" alt="A screenshot of TerminalCal" />
 </div>
 
