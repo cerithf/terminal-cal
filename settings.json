@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "name": "12-hour Clock",
+    "value": false,
+    "possible_settings": [
+      true,
+      false
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Week Start",
+    "value": "Monday",
+    "possible_settings": [
+      "Monday",
+      "Sunday"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Language",
+    "value": "Cymraeg",
+    "possible_settings": [
+      "English",
+      "Cymraeg",
+      "espa\u00f1ol",
+      "Deutsch"
+    ]
+  }
+]

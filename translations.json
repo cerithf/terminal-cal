@@ -1,0 +1,148 @@
+[
+    {
+        "en": "Example",
+        "cy": "Esiampl",
+        "de": "Beispiel",
+        "es": "Ejemplo"
+    },
+    {
+        "en": "Welcome to TerminalCal. 🗓️",
+        "cy": "Croeso i TerminalCal. 🗓️",
+        "de": "Willkommen bei TerminalCal 🗓️",
+        "es": "Bienvenidos a TerminalCal 🗓️"
+    },
+    {
+        "en": "It is {} on {}.",
+        "cy": "Yr amser yw {}, a'r dyddiad yw {}.",
+        "de": "Es ist {} am {}",
+        "es": "Es las {}, {}"
+    },
+    {
+        "en": "What would you like to do?",
+        "cy": "Beth hoffet ti wneud?",
+        "de": "Was möchtest du machen?",
+        "es": "¿Qué quieres hacer?"
+    },
+    {
+        "en": "Create Event",
+        "cy": "Creu Digwyddiad",
+        "de": "Veranstaltung erstellen",
+        "es": "Crear un evento"
+    },
+    {
+        "en": "View Events",
+        "cy": "Gweld Digwyddiadau",
+        "de": "Veranstaltungen sehen",
+        "es": "Ver eventos"
+    },
+    {
+        "en": "View Calendar",
+        "cy": "Gweld Calendr",
+        "de": "Kalender sehen",
+        "es": "Ver calendario"
+    },
+    {
+        "en": "Settings",
+        "cy": "Opsiynau",
+        "de": "Einstellungen",
+        "es": "Ajustes"
+    },
+    {
+        "en": "Quit",
+        "cy": "Gadael",
+        "de": "Verlassen",
+        "es": "Abandonar"
+    },
+    {
+        "name": "long_form_date",
+        "comment": "long form of the date, in the format 'Monday, the 1st of December, 2025'.",
+        "en": "Today is {}, the {} of {}, {}",
+        "cy": "Heddiw yw {}, y {} o {}, {}",
+        "de": "Es ist {}, den {} {}, {}",
+        "es": "Es {}, el {} de {}, {}"
+    },
+    {
+        "en": "Choose language",
+        "cy": "Dewis iaith",
+        "de": "Wähle eine Sprache",
+        "es": "Elige un idioma"
+    },
+    {
+        "en": "Show previous month",
+        "cy": "Dangos y mis cyn",
+        "de": "Den vorherigen Monat zeigen",
+        "es": "Monstrar el mes anterior"
+    },
+    {
+        "en": "Show next month",
+        "cy": "Dangos y mis nesaf",
+        "de": "Den nächsten Monat zeigen",
+        "es": "Monstrar el próximo mes"
+    },
+    {
+        "en": "Show specific month",
+        "cy": "Dangos mis arbennig",
+        "de": "Einen spezifischen Monat zeigen",
+        "es": "Monstrar un mes especifico"
+    },
+    {
+        "en": "Show this month",
+        "cy": "Dangos y mis yma",
+        "de": "Diesen Monat zeigen",
+        "es": "Monstrar este mes"
+    },
+    {
+        "en": "Main menu",
+        "cy": "Dewislen",
+        "de": "Hauptmenü",
+        "es": "Menú"
+    },
+    {
+        "en": "12-hour Clock",
+        "cy": "Cloc 12-awr",
+        "de": "2-mal-12-Stunden-Zählung",
+        "es": "Sistema horario de 12 horas"
+    },
+    {
+        "en": "24-hour Clock",
+        "cy": "Cloc 24-awr",
+        "de": "24-Stunden-Zählung",
+        "es": "Sistema horario de 24 horas"
+    },
+    {
+        "en": "Language",
+        "cy": "Iaith",
+        "de": "Sprache",
+        "es": "Idioma"
+    },
+    {
+        "en": "Week Start",
+        "cy": "Dechrau'r wythnos ar",
+        "de": "Wochenstart",
+        "es": "Empezar la semana el"
+    },
+    {
+        "en": "Monday",
+        "cy": "Ddydd Llun",
+        "de": "Montag",
+        "es": "lunes"
+    },
+    {
+        "en": "Sunday",
+        "cy": "Ddydd Sul",
+        "de": "Sonntag",
+        "es": "domingo"
+    },
+    {
+        "en": "True",
+        "cy": "Ie",
+        "de": "Ja",
+        "es": "Sí"
+    },
+    {
+        "en": "False",
+        "cy": "Na",
+        "de": "Nein",
+        "es": "No"
+    }
+]

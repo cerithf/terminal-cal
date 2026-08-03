@@ -1,0 +1,21 @@
+{
+    "Monday": "Llun",
+    "Tuesday": "Mawrth",
+    "Wednesday": "Mercher",
+    "Thursday": "Iau",
+    "Friday": "Gwener",
+    "Saturday": "Sadwrn",
+    "Sunday": "Sul",
+    "January": "Ionawr",
+    "February": "Chwefror",
+    "March": "Mawrth",
+    "April": "Ebrill",
+    "May": "Mai",
+    "June": "Mehefin",
+    "July": "Gorffennaf",
+    "August": "Awst",
+    "September": "Medi",
+    "October": "Hydref",
+    "November": "Tachwedd",
+    "December": "Rhagfyr"
+}
